@@ -169,7 +169,7 @@ function App() {
   return (
     <div
       className="flex w-screen h-screen bg-cover bg-center"
-      style={{ backgroundImage: `url("/src/assets/bg-image.jpg")` }}
+      style={{ backgroundImage: `url("https://github.com/joaosamuelgomes/image_processing/blob/8a407727d05c266090d31bc3f0e1aeb3cd63be97/src/assets/bg-image.jpg?raw=true")` }}
     >
       <div className="mx-auto bg-yellow-400 h-[90%] w-[70%] self-center">
         <h2 className="text-center text-2xl font-semibold mt-10">Processamento de imagens</h2>
